@@ -12,9 +12,9 @@ const categories: Category[] = [
     description: "Detailed analysis of business strategies and its operations",
   },
   {
-    label: "Geopolitics and foreign affairs",
+    label: "Geopolitics",
     tag: "geopolitics",
-    description: "Innovative engineering driving AI advancements.",
+    description: "Updates and detailed analysis on the geopolitics.",
   },
   {
     label: "Jobs",
