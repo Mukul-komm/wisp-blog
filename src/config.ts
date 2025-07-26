@@ -7,13 +7,13 @@ interface Category {
 
 const categories: Category[] = [
   {
-    label: "Foundation Model",
-    tag: "foundation-model",
-    description: "Insights on powerful AI models at the foundation of tech.",
+    label: "Business Strategies",
+    tag: "business-strategies",
+    description: "Detailed analysis of business strategies and its operations",
   },
   {
-    label: "Engineering",
-    tag: "engineering",
+    label: "Geopolitics and foreign affairs",
+    tag: "geopolitics",
     description: "Innovative engineering driving AI advancements.",
   },
   {
@@ -26,11 +26,7 @@ const categories: Category[] = [
     tag: "startup",
     description: "Spotlight on innovative AI startups transforming industries.",
   },
-  {
-    label: "Ethics",
-    tag: "ethics",
-    description: "Promoting responsible AI for positive impact.",
-  },
+  
 ];
 
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000";
