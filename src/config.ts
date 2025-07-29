@@ -7,7 +7,7 @@ interface Category {
 
 const categories: Category[] = [
   {
-    label: "Business Strategies",
+    label: "Business",
     tag: "business-strategies",
     description: "Detailed analysis of business strategies and its operations",
   },
@@ -15,11 +15,6 @@ const categories: Category[] = [
     label: "Geopolitics",
     tag: "geopolitics",
     description: "Updates and detailed analysis on the geopolitics.",
-  },
-  {
-    label: "Jobs",
-    tag: "jobs",
-    description: "Explore AI job trends and opportunities shaping a brighter future.",
   },
   {
     label: "Startups",
