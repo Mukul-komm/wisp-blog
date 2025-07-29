@@ -8,7 +8,7 @@ interface Category {
 const categories: Category[] = [
   {
     label: "Business",
-    tag: "business-strategies",
+    tag: "business",
     description: "Detailed analysis of business strategies and its operations",
   },
   {
