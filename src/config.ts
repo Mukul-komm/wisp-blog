@@ -27,7 +27,7 @@ const categories: Category[] = [
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://msarden.in";
 
 export const config = {
-  blogId: process.env.NEXT_PUBLIC_BLOG_ID || "clvlugru90000o4g8ahxp069s",
+  blogId: process.env.NEXT_PUBLIC_BLOG_ID || "a36dcfa7-692f-4a0c-aa5d-1c60d49c770d",
   baseUrl,
   logoUrl: urlJoin(baseUrl, "logo.png"),
   organization: process.env.NEXT_PUBLIC_BLOG_ORGANIZATION || "Mukul Blogs",
